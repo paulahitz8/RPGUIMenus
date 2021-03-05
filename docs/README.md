@@ -2,20 +2,19 @@
 Paula Hitz
 
 ## Problem Description
-miau
+lol
 
 ## Market Study
-miau
+lol
 
 ## Proposed Solution
-miau
+lol
 
 ## Possible Improvements/Innovations
-miau
+lol
 
 ## Provided Templates
-miau
+lol
 
 ## Documentation Links and References
-miau
-
+lol
