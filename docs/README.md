@@ -1,4 +1,5 @@
 # RPG UI Menus Research Article
+Paula Hitz
 
 ## Problem Description
 miau
