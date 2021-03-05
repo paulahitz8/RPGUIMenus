@@ -1,4 +1,4 @@
-# RPG UI Menus Research Project
+# RPG UI Menus
 # Introduction
 ## What is a UI?
 A UI is miau miau bla bla...
