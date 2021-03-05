@@ -1,4 +1,4 @@
-# RPG UI Menus Research Article
+# RPG UI Menus Research
 Paula Hitz
 
 ## Problem Description
