@@ -1,6 +1,5 @@
 [Go back to Github](https://github.com/paulahitz8/RPGUIMenus)
 
-![hello](https://cdn.discordapp.com/attachments/817770167139434507/817797567475482634/unknown.png)
 
 # Introduction
 Since the beginning of the gaming era, the UI of a game miau miau miau. 
@@ -25,7 +24,7 @@ When designing the UI of the video game, there is a very common technique called
 
 This is an example of a flowchart:
 
-(image)
+![flowchart](https://i.pinimg.com/originals/30/2c/f1/302cf109c4f89c58feba09fdeeae7f8f.png)
 
 As you can see it displays the different menus and the arrows show how the player can navigate through this. The purpose of this is to make it as simple as possible, to avoid confusion and distraction. 
 
