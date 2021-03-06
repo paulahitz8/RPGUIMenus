@@ -2,12 +2,12 @@
 
 
 
-# RPG UI Menus
+# **RPG UI Menus**
 # Introduction
 Since the beginning of the gaming era, the UI of a game miau miau miau. 
 
 ## UI vs UX
-The terms UI and UX are often used incorrectly due to the lack of understanding of their actual meaning. UI, or User Interface, in video games is the way in which the player interacts with the game through methods, like the controller or keyboard, and interfaces, like the menus or HUD. On the other hand, UX, or User Experience, refers to how enjoyable or intuitive these interactions actually are. It is also important to clarify that the HUD, or Head-Up-Display, is the method in which the game visually displays the information to the player, being part of the game’s UI.
+The terms UI and UX are often used incorrectly due to the lack of understanding of their actual meaning. UI, or _User Interface_, in video games is the way in which the player interacts with the game through methods, like the controller or keyboard, and interfaces, like the menus or HUD. On the other hand, UX, or _User Experience_, refers to how enjoyable or intuitive these interactions actually are. It is also important to clarify that the HUD, or _Head-Up-Display_, is the method in which the game visually displays the information to the player, being part of the game’s UI.
 
 ## Why is it important to have a good UI?
 The goal of a good UI is to provide information to the user in a clear and quick way, avoiding distractions or unnecessary information. After some research I found a good list of questions that can ensure a good use of the UI. These are the following:
