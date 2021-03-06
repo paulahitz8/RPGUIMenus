@@ -3,6 +3,9 @@
 ## What is a UI?
 A UI is miau miau bla bla...
 
+## UI vs HUD
+miau
+
 ## Importance and User Experience
 It's super important omg...
 
