@@ -84,7 +84,7 @@ In the _type of menu_, these are the options that are going to be available for 
 
 For the _type of menu_, this is the flowchart we created:
 
-_flowchart here_
+[_flowchart here_]
 
 5. Specify any visual or audio feedback for each menu.
 
