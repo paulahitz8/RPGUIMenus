@@ -1,7 +1,7 @@
 [Go back to Github](https://github.com/paulahitz8/RPGUIMenus)
 
 # Introduction
-Since the beginning of the gaming era, the UI of a game miau miau miau. 
+Welcome to my research article about RPG UI Menus. I hope you enjoy it.
 
 ## UI vs UX
 The terms UI and UX are often used incorrectly due to the lack of understanding of their actual meaning. UI, or User Interface, in video games is the way in which the player interacts with the game through methods, like the controller or keyboard, and interfaces, like the menus or HUD. On the other hand, UX, or User Experience, refers to how enjoyable or intuitive these interactions actually are. It is also important to clarify that the HUD, or Head-Up-Display, is the method in which the game visually displays the information to the player, being part of the game’s UI.
