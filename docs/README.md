@@ -4,7 +4,7 @@
 Since the beginning of the gaming era, the UI of a game miau miau miau. 
 
 ## UI vs UX
-The terms UI and UX are often used incorrectly due to the lack of understanding of their actual meaning. UI, or _User Interface_, in video games is the way in which the player interacts with the game through methods, like the controller or keyboard, and interfaces, like the menus or HUD. On the other hand, UX, or _User Experience_, refers to how enjoyable or intuitive these interactions actually are. It is also important to clarify that the HUD, or _Head-Up-Display_, is the method in which the game visually displays the information to the player, being part of the game’s UI.
+The terms UI and UX are often used incorrectly due to the lack of understanding of their actual meaning. UI, or User Interface, in video games is the way in which the player interacts with the game through methods, like the controller or keyboard, and interfaces, like the menus or HUD. On the other hand, UX, or User Experience, refers to how enjoyable or intuitive these interactions actually are. It is also important to clarify that the HUD, or Head-Up-Display, is the method in which the game visually displays the information to the player, being part of the game’s UI.
 
 ## Why is it important to have a good UI?
 The goal of a good UI is to provide information to the user in a clear and quick way, avoiding distractions or unnecessary information. After some research I found a good list of questions that can ensure a good use of the UI. These are the following:
@@ -27,7 +27,7 @@ It is important to frequently ask these questions when designing and developing 
 
 
 ## Flowcharts
-When designing the UI of the video game, there is a very common technique called the flowchart. This technique consists of designing a diagram that represents the different actions that the player can take while navigating through the different menus. This can help to ensure a logical and efficient way to access different information provided by the videogame.
+When designing the UI of the video game, there is a very common technique called the flowchart. This technique consists of designing a diagram that represents the different actions that the player can take while navigating through the different menus. This can help to ensure a logical and efficient way to access different information provided by the videogame. 
 
 This is an example of a flowchart:
 
@@ -220,13 +220,55 @@ _World of Warcraft_:
 
 
 # Evolution
-It is very interesting how all of these elements have evolved along the years, for example (3 digit example). Here we go into the topic of old school vs new school games and UI has evolved during the years.
+As the years have rolled on and gaming has progressed and matures, the way information delivered to the player by the UI has evolved too. The interface of a video game can make or break the whole experience. 
 
-## Old School Games
-bla bla
+Older video games are more conceptual than anything, machines created to explore the concept of video entertainment, not as something to get into the top of a leaderboard, so a UI was not really necessary. However, with the success of arcade machines, UI was introduced in a simple way, like PONG, where it only has the score on the screen. Newer arcade games had the goal of reaching the highest score, therefore displaying several digits on screen that will determine your score. Also, some icons were introduced like health, if the game had lives. 
 
-## New School Games
-bla bla
+Games started developing a more complex UI to give information to the player and to make the game more aesthetically pleasing and enjoyable.
+
+Years ago, players only had 3 slots to introduce a name that would identify them on the top of the leaderboard. To this day, player input screens are very common, especially in RPGs, but they obviously have evolved, giving the player more freedom when choosing his or her name.
+
+As time progressed, the information we needed to know on screen increased, due to the innovations in video games.
+
+## Health
+When players imagine health, the majority imagine a green bar that gets shorter when the player’s life is decreasing. It is one of the most basic ways to represent health in a game. Once the bar depletes, you are dead. 
+
+However, many games across the decades have decided to approach the visual representation of health in a different way. It could be a numerical value, like a percentage, or different numbers depending on your class or your stats. It could be a row of hearts like in Minecraft, or it could actually be nothing. Super Mario Bros for example represented your health with the size of Mario, or Sonic the Hedgehog by the amount of rings you had. 
+
+Some games like Doom, started using the UI in a good way.
+
+As you can see, different information is given to the player, like the ammo, the health, the inventory, armor, and stats. Concretely about health, this game offers two ways of representing it, by a numerical percentage, or by the face of your character, which gets bloodier with lower health. A good thing Doom did is give you all of the information you needed on screen, without having to switch between menus while playing. 
+
+## Inventory
+When PC games started to be more popular RPG games were the most played. Translated from the tabletop to the screen, dungeon crawling, slaying beasts and exploring lands of fantasy was very popular. However, before the incorporation of more modern RPGs with separate menus, skill trees and *usually* minimalistic UIs, most of the things you needed to know where right there on the screen.
+
+This game featured the TAB to switch between your items, spells and armor. The concept of different menus or switching away from the main action wasn’t as present as nowadays. Currently, games offer navigation to different menus or displays to see different options like inventory or skills. 
+
+## Weapons
+In the old days, the usual way to show how many bullets you have left was by a depleting row of bullets that was shown on screen, and the player could only reload once all of the bullets were gone. 
+
+As the first person shooters genre boomed, this more visual representation carried out somewhat. Games like Call of Duty 4 Modern Warfare also had this visual representation of the bullets, but it actually turns out to be harder to read than a simple numeric value which games started to incorporate in their UI. Some games like Apex Legends even have the bullets displayed on the actual gun, making it more immersive. 
+
+## Design
+
+As the media progressed, the user interface was given much more flare. The aesthetics of the game you were playing would match with the design of the UI. For example, when playing a horror game, most likely you will get a spooky dark UI that can be splattered with blood. Or playing a futuristic game, expect a lot of neon lights and digital elements. As time passed by, RPGs tended to go for the more minimalistic design. 
+
+Minimalism in the UI space can make a game more cinematic.
+
+## Menus and Controllers
+Where do we always begin? In the main menu. Sometimes the main menu is nothing more than the option to Start, Options or Quit. Title screens can be all the way to very simple or have an actual cinematic.
+
+As console gaming became more popular over the years, menus were built with controllers in mind. Simplified buttons with submenus available were created rather than just dumping all of the options on the screen, making navigation harder with a thumbstick. A mouse is always quicker and more accurate than a controller in multiple ways, therefore some companies decided to implement a cursor that can be moved with the thumbstick. 
+
+Video games have come a long way, from not needing to tell you much about what you are doing to giving you an actual encyclopedia to read within the options menu. To this day, developers are experimenting with ways to convey information to the player in the prettiest, most effective or least distracting way as possible. The amount of information we need while playing has evolved over time too. First we only needed to know scores, now we need to know how much HP a particular enemy has left or its weak spots, and all of that within a time frame. 	
+
+# UI Design Template
+I made a UI design templatethat may be able to help the different groups. Click [here](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md).
 
 # Bibliography
-
+- Bradley, Alan. “6 Examples of UI Design That Every Game Developer Should Study.” Gamasutra, www.gamasutra.com/view/news/289637/6_examples_of_UI_design_that_every_game_developer_should_study.php.
+- Dakinedi, Akhil. “Top 5 Best Video Game UIs.” Medium, SUPERJUMP, 26 Feb. 2020, medium.com/super-jump/top-5-best-video-game-uis-db941d6a9357.
+- Kionay. “RPG Dialogue Systems.” Medium, Medium, 28 June 2019, kionay.medium.com/rpg-dialogue-systems-1de601383a94.
+- Nathan Lovato Nathan is a game design expert at GameAnalytics. Currently founder and game design instructor at GDquest., et al. “How To Make Your Game UI Shine, Increase Conversions.” GameAnalytics, 5 Nov. 2020, gameanalytics.com/blog/how-to-make-your-game-ui-shine-and-increase-conversions/.
+- Quintans, Desi. “Game UI by Example: A Crash Course in the Good and the Bad.” Game Development Envato Tuts+, Envato Tuts, 22 Jan. 2013, gamedevelopment.tutsplus.com/tutorials/game-ui-by-example-a-crash-course-in-the-good-and-the-bad--gamedev-3943.
+- Schreier, Jason. “What Makes RPG Dialogue Great (And How It Can Go Wrong).” Kotaku, Kotaku, 19 June 2013, kotaku.com/what-makes-rpg-dialogue-great-and-how-it-can-go-wrong-5910866. 
