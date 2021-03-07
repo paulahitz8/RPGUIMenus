@@ -1,38 +1,5 @@
 [Go back to Github](https://github.com/paulahitz8/RPGUIMenus)
 
-# Content
-* [Introduction](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#introduction)
-  * [UI vs UX](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#ui-vs-ux)
-  * [Importance UI](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#why-is-it-important-to-have-a-good-ui)
-  * [Flowcharts](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#flowchart)
-* [Types of Menus and Examples](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#types-of-menus-and-examples)
-  * [Main Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#main-menu)
-  * [Pause Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#pause-menu)
-  * [Character Selection Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#character-selection-menu)
-  * [Character Creation Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#character-creation-menu)
-  * [Stats Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#stats-menu)
-  * [Skills Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#skills-menu)
-  * [Inventory Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#inventory-menu)
-  * [Equipment Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#equipment-menu)
-  * [Settings Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#settings-menu)
-  * [Social Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#social-menu)
-  * [Quest Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#quest-menu)
-  * [Map Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#map-menu)
-  * [Crafting Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#crafting-menu)
-  * [Achievements Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#achievements-menu)
-  * [Collections Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#collections-menu)
-  * [Shop Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#shop-menu)
-  * [News or Patch Notes Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#news-or-patch-notes-menu)
-  * [Saving Slots Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#saving-slots-menu)
-  * [Player(s) Name Input Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#players-name-input-menu)
-* [HUD and Dialog](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#hud-and-dialog)
-* [Evolution](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#evolution)
-  * [Old School Games](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#old-school-games)
-  * [New School Games](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#new-school-games)
-* [Good vs Bad Examples](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#good-vs-bad-examples)
-* [In-Depth Analysis of a Game](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/README.md#in-depth-analysis-of-a-game)
-* [Bibliography]()
-
 # Introduction
 Since the beginning of the gaming era, the UI of a game miau miau miau. 
 
