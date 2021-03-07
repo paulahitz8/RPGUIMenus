@@ -39,7 +39,7 @@ I wanted to do a disclaimer here: every game is different, it is impossible to f
 The most basic menu that we can find in almost every game is the main menu. We often see it right when we open the game, giving us the option to play, go to our settings, quit the game etc. Some games have a lot more options, it depends on the developers.
 
 Skyrim:
-![mainmenuskyrim](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/mainmenu_skyrim.jpg)
+![mainmenuskyrim](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/mainmenu_skyrim.jpg?raw=true)
 
 ## Pause Menu
 What elements can we most likely find in the Pause Menu? 
