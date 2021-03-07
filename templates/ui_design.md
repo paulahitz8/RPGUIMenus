@@ -60,7 +60,7 @@ Once having the organization and flow of the menus decided, it is important to t
 
 
 ## Steps on Creating a Menu
-*In summary, these are the list of steps that your team can do when creating a menu:*
+**In summary, these are the list of steps that your team can do when creating a menu:**
 
 1. Choose what menus your game is going to have.
 
@@ -70,7 +70,7 @@ Our game is going to have the following menus:
 - _type3_
 - _etc_
 
-*For each menu, you will have to do the following steps:*
+**For each menu, you will have to do the following steps:**
 
 2. Identify what options should be given in this menu.
 
