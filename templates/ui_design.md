@@ -26,8 +26,8 @@ Another example can be the settings, which can have the following options:
 * __General/Gameplay__
 * __Graphics__ 
 * __Controls__ 
-* __Audio:__ 
-* __Back:__
+* __Audio__ 
+* __Back__
 
 In this case, the player has different sections where she or he can adjust the settings in the video game, each section containing different options to be adjusted. It is also important to add a button or some sort of information that lets the player go back to the main menu, or pause menu (depending where they come from), in order to navigate well through the menus.
 
