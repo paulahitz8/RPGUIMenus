@@ -181,7 +181,7 @@ _Undertale_:
 ![nameundertale](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/playerinput_undertale.png?raw=true)
 
 # HUD and Dialog
-One of the most common elements found in video games is the HUD, where relevant information is displayed on screen for the player to use while playing. There are many different types of HUDs depending on what the developers are going for:
+One of the most common elements found in video games is the HUD, where relevant information is displayed on screen for the player to use while playing. There are many different types of HUDs depending on what the developers are going for.
 
 Examples and descriptions
 
