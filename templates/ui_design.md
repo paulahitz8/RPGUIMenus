@@ -2,14 +2,11 @@
 
 # Content
 * [UI Document]()
-  * [Main menu]()
-  * [Map menu](https://github.com/hot-dog-games/Project-2/wiki/4.--User-Interface-Document#map-menu)
-     * [Troops menu](https://github.com/hot-dog-games/Project-2/wiki/4.--User-Interface-Document#troops-menu)
-     * [Buildings menu](https://github.com/hot-dog-games/Project-2/wiki/4.--User-Interface-Document#buildings-menu)
-  * [Pause menu](https://github.com/hot-dog-games/Project-2/wiki/4.--User-Interface-Document#pause-menu)
-  * [In game](https://github.com/hot-dog-games/Project-2/wiki/4.--User-Interface-Document#in-game)
-  * [End level screen](https://github.com/hot-dog-games/Project-2/wiki/4.--User-Interface-Document#end-level-screen)
-  * [End game screen](https://github.com/hot-dog-games/Project-2/wiki/4.--User-Interface-Document#end-game-screen)
+  * [Creating a Menu]()
+  * [Flowcharts]()
+  * [Interaction and Art]()
+  * [Steps on Creating a Menu]()
+
 
 # UI Document
 The UI Design document, as the name implies, is a document that contains all of the information about the design of the UI, including the organization of the menus, the art, and the feedback each option is going to provide. This document is going to give a general template on how to create a menu.
