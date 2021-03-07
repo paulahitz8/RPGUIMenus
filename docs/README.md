@@ -50,19 +50,19 @@ What elements can we most likely find in the Pause Menu?
 Again, depends on the game, there are some which give access to all of the menus available for the player.
 
 _Read Dead Redemption 2_:
-<img src="https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/pausemenu_rdd2.png">
+![pauserdd2](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/pausemenu_rdd2.png?raw=true)
 
 ## Character Selection Menu
 Where the player gets to decide which character she or he can play.
 
 _Destiny 2_:
-![charselectdestiny](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/charselect_destiny.png)
+![charselectdestiny](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/charselect_destiny.png?raw=true)
 
 ## Character Creation Menu
 Where the player gets to create his or her character.
 
 _Skyrim_:
-![charcreationskyrim](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/charcreation_skyrim.png)
+![charcreationskyrim](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/charcreation_skyrim.png?raw=true)
 
 ## Stats Menu
 Where the different stats of the character are being displayed. They can vary depending on the game. Some elements found are:
@@ -73,25 +73,25 @@ Where the different stats of the character are being displayed. They can vary de
 - Weight
 
 _Dark Souls III_:
-![statsdarksouls](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/stats_darksouls.png)
+![statsdarksouls](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/stats_darksouls.png?raw=true)
 
 ## Skills Menu
 This menu displays the skills that are or can be obtained by the character. They can be displayed in different ways, like in a list. I believe the most common and efficient way to display it is in a tree.
 
 _Skyrim_:
-![skillskyrim](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/skills_skyrim.jpg)
+![skillskyrim](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/skills_skyrim.jpg?raw=true)
 
 ## Inventory Menu
 This menu displays the inventory of the character, which is basically what they are carrying in the game. 
 
 _Pokemon Diamond/Pearl_:
-![inventorypokemon](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/inventory_pokemon.jpg)
+![inventorypokemon](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/inventory_pokemon.jpg?raw=true)
 
 ## Equipment Menu
 This menu can be often confused with the previous one, but it refers to the gear the character wears, like armor or weapons. It is sometimes linked to the inventory, since they are normally able to equip and unequip certain items.
 
 _Dark Souls III_:
-![equipmentdarksouls](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/equipment_darksouls.png)
+![equipmentdarksouls](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/equipment_darksouls.png?raw=true)
 
 ## Settings Menu
 This menu allows the player to change certain options of the game. The most common options are:
@@ -114,7 +114,7 @@ This menu allows the player to change certain options of the game. The most comm
   - Fx volume
 
 _Cyberpunk 2077_:
-![settingscyberpunk](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/graphics_cyberpunk.jpg)
+![settingscyberpunk](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/graphics_cyberpunk.jpg?raw=true)
 
 ## Social Menu
 Social menus are more often found in multiplayer games, but some games that are singleplayer still can offer some of these options. These are some submenus we can find here:
@@ -125,61 +125,61 @@ Social menus are more often found in multiplayer games, but some games that are 
 - Friends list
 
 _Destiny II_:
-![socialmenudestiny](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/lobby_destiny.png)
+![socialmenudestiny](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/lobby_destiny.png?raw=true)
 
 ## Quest Menu
 Where the quests of the player are being displayed, often with some backstory and location. Normally, they are divided into main quests and optional or secondary quests. Main quests tend to follow the story of the game.
 
 _Skyrim_:
-![questsskyrim](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/quests_skyrim.jpg)
+![questsskyrim](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/quests_skyrim.jpg?raw=true)
 
 ## Map Menu
 Whether there is only one map or there are many worlds with different maps (like in Destiny), the Map Menu is where the world is being displayed, helping the player navigate around the different locations in the game. Sometimes, quests are signalized on the map, to make it easier for the player to understand where she or he needs to go.
 
 _Pokemon Ruby/Sapphire/Emerald_:
-![mappokemon](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/map_pokemon.png)
+![mappokemon](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/map_pokemon.png?raw=true)
 
 ## Crafting Menu
 Crafting menus are somewhat common in RPG games. Sometimes they are linked to the inventory menu since we often need ingredients or pieces in order to craft certain objects.
 
 _Last of Us 2_:
-![crafting](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/crafting_lastofus.jpg)
+![crafting](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/crafting_lastofus.jpg?raw=true)
 
 ## Achievements Menu
 This menu is mostly used to show off to our friends what we achieved while playing. Also, it is very satisfying to complete everything, at least for some players. 
 
 _World of Warcraft_:
-![achievementswow](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/achievements_wow.png)
+![achievementswow](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/achievements_wow.png?raw=true)
 
 ## Collections Menu
 This is similar to the menu before, but it is specifically objects you can collect in the game, like for example in World of Warcraft you can collect different mounts and pets.
 
 _Destiny 2_:
-![collectionsdestiny](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/collections_destiny.png)
+![collectionsdestiny](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/collections_destiny.png?raw=true)
 
 ## Shop Menu
 Whether it’s a store with real money or in-game money, this is used to make the player spend money. With real money we can buy things like skins, special objects in the game, exclusive content etc. With in-game money we can often buy power-ups, better gear etc. But actually, the options are limitless. 
 
 _Undertale_:
-![shopundertale](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/shop_undertale.png)
+![shopundertale](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/shop_undertale.png?raw=true)
 
 ## News or Patch Notes Menu
 This menu is also self explanatory. Here the game gives information to the player like about new updates or events that might be coming up. These are normally very common in multiplayer RPGs since they are constantly tweaking the games and adding more events for people to participate in.
 
 _Dark Souls III_:
-![newsdarksouls](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/news_darksouls.png)
+![newsdarksouls](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/news_darksouls.png?raw=true)
 
 ## Saving Slots Menu
 This is another menu that can be found in singleplayer games, where the player can save his or her progression during that game. 
 
 _Legends of Zelda_:
-![savezelda](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/saveslot_zelda.jpg)
+![savezelda](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/saveslot_zelda.jpg?raw=true)
 
 ## Player(s) Name Input Menu
 I believe this menu is very specific, but it can be found also in RPG games, especially the old school ones. This menu is dedicated for the player to introduce his or her name.
 
 _Undertale_:
-![nameundertale](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/playerinput_undertale.png)
+![nameundertale](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/playerinput_undertale.png?raw=true)
 
 # HUD and Dialog
 One of the most common elements found in video games is the HUD, where relevant information is displayed on screen for the player to use while playing. There are many different types of HUDs depending on what the developers are going for:
