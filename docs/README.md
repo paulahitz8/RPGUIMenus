@@ -188,20 +188,35 @@ I believe this menu is very specific, but it can be found also in RPG games, esp
 _Undertale_:
 ![nameundertale](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/playerinput_undertale.png?raw=true)
 
-# HUD and Dialog
+# HUD and Dialogue
 One of the most common elements found in video games is the HUD, where relevant information is displayed on screen for the player to use while playing. There are many different types of HUDs depending on what the developers are going for.
 
-## Dialog
-We all know RPGs is one of the greatest genres of games in the world, with its origin being on tabletop board games, like Dungeons & Dragons. Here is where playing a role actually started. It becomes some kind of social experience that can require a party of people, or not. When the player is roleplaying, he or she is personifying another character. The interaction with this fantasy world is very important and can be done through dialog with other people or the game itself. 
+## Dialogue
+We all know RPGs is one of the greatest genres of games in the world, with its origin being on tabletop board games, like Dungeons & Dragons. Here is where playing a role actually started. It becomes some kind of social experience that can require a party of people, or not. When the player is roleplaying, he or she is personifying another character. The interaction with this fantasy world is very important and can be done through dialogue with other people or the game itself. 
 
-Factors about the player’s character and the world, like the era, class, gender and race are going to determine the form of communication in the game. Representing properly the character and the environment is important and adds to the immersion of the player into the game. Creating a dialog is important and takes time, but it helps a lot into making the game better. 
+Factors about the player’s character and the world, like the era, class, gender and race are going to determine the form of communication in the game. Representing properly the character and the environment is important and adds to the immersion of the player into the game. Creating a dialogue is important and takes time, but it helps a lot into making the game better. 
 
-Some games offer dialog options, meaning that the character can choose between different sentences to say. This gives the player a little more freedom since he or she can decide what to say. Some games do not take into account what option you chose, since the reaction or the story will stay the same, but other games take the player’s choice into consideration and shifts accordingly. 
+Some games offer dialogue options, meaning that the character can choose between different sentences to say. This gives the player a little more freedom since he or she can decide what to say. Some games do not take into account what option you chose, since the reaction or the story will stay the same, but other games take the player’s choice into consideration and shifts accordingly. 
+
 
 _Skyrim_:
 ![skyrimdialogue](https://miro.medium.com/max/700/1*IAVvUpe77o0YdbzOvVbk0g.jpeg)
 
-We all know that there has to be a balance on how much dialogue is presented in the game. Japanese RPGs are well known for having a lot of text and backstory since most players like to roam around and interact with every NPC in the game to learn more about the game and its story. Some other people prefer to spam B to skip all of the dialogue because they can sometimes get annoying. In my opinion, finding a good balance between a lot and too little is important, but this of course is a personal opinion and everyone has their own preferences. Also, when it comes to excessive dialog, this tends to be because the NPC or the actual game is giving information to the player that is not important to the actual gameplay.
+We all know that there has to be a balance on how much dialogue is presented in the game. Japanese RPGs are well known for having a lot of text and backstory since most players like to roam around and interact with every NPC in the game to learn more about the game and its story. Some other people prefer to spam B to skip all of the dialogue because they can sometimes get annoying. In my opinion, finding a good balance between a lot and too little is important, but this of course is a personal opinion and everyone has their own preferences. Also, when it comes to excessive dialogue, this tends to be because the NPC or the actual game is giving information to the player that is not important to the actual gameplay.¡
+
+Examples of dialogue in RPGs:
+
+_Skyrim_:
+![skyrimdialogue](https://i.imgur.com/r2f9fBG.jpg)
+
+_Pokemon_:
+![pokemondialogue](https://i.pinimg.com/originals/58/2f/79/582f798483c4d1ffdc2f3d2fef1354ee.jpg)
+
+_Undertale_:
+![undertaledialogue](https://i.pinimg.com/originals/73/05/2a/73052abcfa463e1d62dd554c6603b5cf.png)
+
+_World of Warcraft_:
+![wowdialogue](https://i.ytimg.com/vi/aQ-4-kqAhVs/maxresdefault.jpg)
 
 
 # Evolution
