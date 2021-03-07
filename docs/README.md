@@ -191,7 +191,18 @@ _Undertale_:
 # HUD and Dialog
 One of the most common elements found in video games is the HUD, where relevant information is displayed on screen for the player to use while playing. There are many different types of HUDs depending on what the developers are going for.
 
-Examples and descriptions
+## Dialog
+We all know RPGs is one of the greatest genres of games in the world, with its origin being on tabletop board games, like Dungeons & Dragons. Here is where playing a role actually started. It becomes some kind of social experience that can require a party of people, or not. When the player is roleplaying, he or she is personifying another character. The interaction with this fantasy world is very important and can be done through dialog with other people or the game itself. 
+
+Factors about the player’s character and the world, like the era, class, gender and race are going to determine the form of communication in the game. Representing properly the character and the environment is important and adds to the immersion of the player into the game. Creating a dialog is important and takes time, but it helps a lot into making the game better. 
+
+Some games offer dialog options, meaning that the character can choose between different sentences to say. This gives the player a little more freedom since he or she can decide what to say. Some games do not take into account what option you chose, since the reaction or the story will stay the same, but other games take the player’s choice into consideration and shifts accordingly. 
+
+_Skyrim_:
+![skyrimdialogue](https://miro.medium.com/max/700/1*IAVvUpe77o0YdbzOvVbk0g.jpeg)
+
+We all know that there has to be a balance on how much dialogue is presented in the game. Japanese RPGs are well known for having a lot of text and backstory since most players like to roam around and interact with every NPC in the game to learn more about the game and its story. Some other people prefer to spam B to skip all of the dialogue because they can sometimes get annoying. In my opinion, finding a good balance between a lot and too little is important, but this of course is a personal opinion and everyone has their own preferences. Also, when it comes to excessive dialog, this tends to be because the NPC or the actual game is giving information to the player that is not important to the actual gameplay.
+
 
 # Evolution
 It is very interesting how all of these elements have evolved along the years, for example (3 digit example). Here we go into the topic of old school vs new school games and UI has evolved during the years.
