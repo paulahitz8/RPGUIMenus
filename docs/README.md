@@ -263,7 +263,7 @@ As console gaming became more popular over the years, menus were built with cont
 Video games have come a long way, from not needing to tell you much about what you are doing to giving you an actual encyclopedia to read within the options menu. To this day, developers are experimenting with ways to convey information to the player in the prettiest, most effective or least distracting way as possible. The amount of information we need while playing has evolved over time too. First we only needed to know scores, now we need to know how much HP a particular enemy has left or its weak spots, and all of that within a time frame. 	
 
 # UI Design Template
-I made a UI design templatethat may be able to help the different groups. Click [here](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md).
+I made a UI design template that may be able to help the different groups. Click [here](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md).
 
 # Bibliography
 - Bradley, Alan. “6 Examples of UI Design That Every Game Developer Should Study.” Gamasutra, www.gamasutra.com/view/news/289637/6_examples_of_UI_design_that_every_game_developer_should_study.php.
