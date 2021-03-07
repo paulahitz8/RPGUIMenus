@@ -17,7 +17,14 @@ The goal of a good UI is to provide information to the user in a clear and quick
 6. Are there any repetitive tasks that I can shorten?
 7. Am I being consistent?
 
-It is important to frequently ask these questions when designing and developing a video game in order to avoid any complications or unpleasant experiences.
+It is important to frequently ask these questions when designing and developing a video game in order to avoid any complications or unpleasant experiences. Some other key factor to be aware of:
+
+- Hierarchy
+- Size
+- Color
+- Contrast
+- Position and layout
+
 
 ## Flowcharts
 When designing the UI of the video game, there is a very common technique called the flowchart. This technique consists of designing a diagram that represents the different actions that the player can take while navigating through the different menus. This can help to ensure a logical and efficient way to access different information provided by the videogame.
