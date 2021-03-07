@@ -160,8 +160,8 @@ _Destiny 2_:
 ## Shop Menu
 Whether it’s a store with real money or in-game money, this is used to make the player spend money. With real money we can buy things like skins, special objects in the game, exclusive content etc. With in-game money we can often buy power-ups, better gear etc. But actually, the options are limitless. 
 
-_Undetale_:
-![shopundertale](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/shop_undertale.png(
+_Undertale_:
+![shopundertale](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/shop_undertale.png)
 
 ## News or Patch Notes Menu
 This menu is also self explanatory. Here the game gives information to the player like about new updates or events that might be coming up. These are normally very common in multiplayer RPGs since they are constantly tweaking the games and adding more events for people to participate in.
@@ -173,7 +173,7 @@ _Dark Souls III_:
 This is another menu that can be found in singleplayer games, where the player can save his or her progression during that game. 
 
 _Legends of Zelda_:
-![savezelda](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/saveslot_zelda.jpg(
+![savezelda](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/saveslot_zelda.jpg)
 
 ## Player(s) Name Input Menu
 I believe this menu is very specific, but it can be found also in RPG games, especially the old school ones. This menu is dedicated for the player to introduce his or her name.
