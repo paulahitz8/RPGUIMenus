@@ -1,4 +1,4 @@
-# *RPG UI Menus Template*
+# *UI Design Template*
 
 # Content
 * [UI Document]()
