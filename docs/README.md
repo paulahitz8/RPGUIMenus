@@ -228,8 +228,5 @@ bla bla
 ## New School Games
 bla bla
 
-# Good vs Bad Examples
-In class activity.
+# Bibliography
 
-# In-Depth Analysis of a Game
-In class activity.
