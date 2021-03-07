@@ -26,13 +26,20 @@ This is an example of a flowchart:
 
 ![flowchart](https://i.pinimg.com/originals/30/2c/f1/302cf109c4f89c58feba09fdeeae7f8f.png)
 
+This is another example of a flowchart:
+
+![flowchart2](https://images.squarespace-cdn.com/content/v1/57fd1900414fb5796ec9ef0e/1478447627883-RQIA8I174WY1EEG51FNG/ke17ZwdGBToddI8pDm48kIbKmVpWXp0hT9DwFKJuHfxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIXSL_jJZ390Sxde8xirMC93N_YOQPnKKwVrryIHtGryc/menu_flowChart.png)
+
 As you can see it displays the different menus and the arrows show how the player can navigate through this. The purpose of this is to make it as simple as possible, to avoid confusion and distraction. 
 
 # Types of Menus and Examples
-I wanted to do a disclaimer here: every game is different, it is impossible to find a structure that suits every game since all of them have different elements that make the game. Some games have very simple menus and others have very complex ones with a bunch of options that the player can use. I will be showing you the most common, some particular ones that I find interesting, and I organized them from my point of view. 
+I wanted to do a disclaimer here: every game is different, it is impossible to find a structure that suits every game since all of them have different elements that make the game. Some games have very simple menus and others have very complex ones with a bunch of options that the player can use. I will be showing you the most common, some particular ones that I find interesting, and I organized them from my point of view. I also added a screenshot as an example for every type.
 
 ## Main Menu
-The most basic menu that we can find in almost every game is the main menu. We often see it right when we open the game, giving us the option to play, go to our settings, quit the game etc. Some games have a lot more options, like...
+The most basic menu that we can find in almost every game is the main menu. We often see it right when we open the game, giving us the option to play, go to our settings, quit the game etc. Some games have a lot more options, it depends on the developers.
+
+Skyrim:
+![mainmenuskyrim](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/mainmenu_skyrim.jpg)
 
 ## Pause Menu
 What elements can we most likely find in the Pause Menu? 
