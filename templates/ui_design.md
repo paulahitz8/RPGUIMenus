@@ -62,7 +62,7 @@ Once having the organization and flow of the menus decided, it is important to t
 ## Steps on Creating a Menu
 **In summary, these are the list of steps that your team can do when creating a menu:**
 
-### 1. Choose what menus your game is going to have.
+**1. Choose what menus your game is going to have.**
 
 Our game is going to have the following menus:
 - [_type1_]
@@ -71,20 +71,20 @@ Our game is going to have the following menus:
 
 **For each menu, you will have to do the following steps:**
 
-2. Identify what options should be given in this menu.
+**2. Identify what options should be given in this menu.**
 
 In the [_type of menu_] these are the options that are going to be available for the player:
 - [_option1_]
 - [_option2_]
 - [_option3_]
 
-3. Make a flowchart between menus, with every action available.
+**3. Make a flowchart between menus, with every action available.**
 
 For the [_type of menu_] this is the flowchart we created:
 
 [_flowchart here_]
 
-4. Specify any visual or audio feedback for each menu.
+**4. Specify any visual or audio feedback for each menu.**
 
 For the [_type of menu_], we decided to...
 
