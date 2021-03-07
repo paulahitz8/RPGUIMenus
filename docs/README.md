@@ -50,7 +50,7 @@ What elements can we most likely find in the Pause Menu?
 Again, depends on the game, there are some which give access to all of the menus available for the player.
 
 _Read Dead Redemption 2_:
-![pausemenurdd2](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/pausemenu_rdd2.png)
+<img src="https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/pausemenu_rdd2.png">
 
 ## Character Selection Menu
 Where the player gets to decide which character she or he can play.
