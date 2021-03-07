@@ -5,7 +5,7 @@
   * [Creating a Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md#creating-a-menu)
   * [Flowcharts](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md#flowcharts)
   * [Interaction and Art](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md#interaction-and-art)
-  * [Steps on Creating a Menu]()
+  * [Steps on Creating a Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md#steps-on-creating-a-menu)
 
 
 # UI Document
