@@ -15,6 +15,7 @@ The goal of a good UI is to provide information to the user in a clear and quick
 4. Are the things I am able to do on this screen obvious?
 5. Is there any unnecessary information on the screen?
 6. Are there any repetitive tasks that I can shorten?
+7. Am I being consistent?
 
 It is important to frequently ask these questions when designing and developing a video game in order to avoid any complications or unpleasant experiences.
 
