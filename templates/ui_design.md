@@ -1,14 +1,14 @@
 # *UI Design Template*
 
 # Content
-* [UI Document](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md#ui-document)
+* [UI Design Document](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md#ui-document)
 * [Creating a Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md#creating-a-menu)
 * [Flowcharts](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md#flowcharts)
 * [Interaction and Art](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md#interaction-and-art)
 * [Steps on Creating a Menu](https://github.com/paulahitz8/RPGUIMenus/blob/main/templates/ui_design.md#steps-on-creating-a-menu)
 
 
-# UI Document
+# UI Design Document
 The UI Design document, as the name implies, is a document that contains all of the information about the design of the UI, including the organization of the menus, the art, and the feedback each option is going to provide. This document is going to give a general template on how to create a menu.
 
 ## Creating a Menu
@@ -33,7 +33,7 @@ In this case, the player has different sections where she or he can adjust the s
 
 
 ## Flowcharts
-Flowcharts are going to be key in order to make sure the navigation through the menus is as efficient and organized as possible. Flowcharts lets see visually in a very simple way the setup for our menus. It is going to be important to create flowcharts to demostrate and make sure that the organization is as best as possible.
+Flowcharts are going to be key in order to make sure the navigation through the menus is as efficient and organized as possible. Flowcharts allows to see visually in a very simple way the setup for our menus. It is going to be important to create flowcharts to demostrate and make sure that the organization is as best as possible.
 
 Some examples:
 _Pause Menu Flowchart:_
@@ -57,10 +57,11 @@ Once having the organization and flow of the menus decided, it is important to t
 - Is there any elements that can be removed to ensure clarity and a better organization?
 - Are the actions available to the player clear?
 - Is there going to be any feedback when the player hovers the mouse or controller over an option?
+- Is my menu adapted for players who use controllers?
 
 
 ## Steps on Creating a Menu
-**In summary, these are the list of steps that your team can do when creating a menu:**
+**In summary, this is the list of steps that your team can follow when creating a menu:**
 
 **1. Choose what menus your game is going to have.**
 
