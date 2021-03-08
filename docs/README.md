@@ -83,7 +83,7 @@ _Dark Souls III_:
 ![statsdarksouls](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/stats_darksouls.png?raw=true)
 
 ## Skills Menu
-This menu displays the skills that are or can be obtained by the character. They can be displayed in different ways, like in a list. I believe the most common and efficient way to display it is in a tree.
+This menu displays the skills that are or can be obtained by the character. They can be displayed in different ways, like in a list. I believe the most common and efficient way to display it is in a tree diagram.
 
 _Skyrim_:
 ![skillskyrim](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/skills_skyrim.jpg?raw=true)
@@ -165,7 +165,7 @@ _Destiny 2_:
 ![collectionsdestiny](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/collections_destiny.png?raw=true)
 
 ## Shop Menu
-Whether it’s a store with real money or in-game money, this is used to make the player spend money. With real money we can buy things like skins, special objects in the game, exclusive content etc. With in-game money we can often buy power-ups, better gear etc. But actually, the options are limitless. 
+Whether it’s a store with real money or in-game money, this is used to make the player spend it. With real money we can buy things like skins, special objects in the game, exclusive content etc. With in-game money we can often buy power-ups, better gear etc. But actually, the options are limitless. 
 
 _Undertale_:
 ![shopundertale](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/shop_undertale.png?raw=true)
@@ -183,7 +183,7 @@ _Legends of Zelda_:
 ![savezelda](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/saveslot_zelda.jpg?raw=true)
 
 ## Player(s) Name Input Menu
-I believe this menu is very specific, but it can be found also in RPG games, especially the old school ones. This menu is dedicated for the player to introduce his or her name.
+I believe this menu is very specific, but it can be found also in most RPG games. This menu is dedicated for the player to introduce his or her name.
 
 _Undertale_:
 ![nameundertale](https://github.com/paulahitz8/RPGUIMenus/blob/main/docs/images/playerinput_undertale.png?raw=true)
@@ -202,7 +202,7 @@ Some games offer dialogue options, meaning that the character can choose between
 _Skyrim_:
 ![skyrimdialogue](https://miro.medium.com/max/700/1*IAVvUpe77o0YdbzOvVbk0g.jpeg)
 
-We all know that there has to be a balance on how much dialogue is presented in the game. Japanese RPGs are well known for having a lot of text and backstory since most players like to roam around and interact with every NPC in the game to learn more about the game and its story. Some other people prefer to spam B to skip all of the dialogue because they can sometimes get annoying. In my opinion, finding a good balance between a lot and too little is important, but this of course is a personal opinion and everyone has their own preferences. Also, when it comes to excessive dialogue, this tends to be because the NPC or the actual game is giving information to the player that is not important to the actual gameplay.¡
+We all know that there has to be a balance on how much dialogue is presented in the game. Japanese RPGs are well known for having a lot of text and backstory since most players like to roam around and interact with every NPC in the game to learn more about the game and its story. Some other people prefer to spam B to skip all of the dialogue because they can sometimes get annoying. In my opinion, finding a good balance between a lot and too little is important, but this of course is a personal opinion and everyone has their own preferences. Also, when it comes to excessive dialogue, this tends to be because the NPC or the actual game is giving information to the player that is not important to the actual gameplay.
 
 Examples of dialogue in RPGs:
 
@@ -220,7 +220,7 @@ _World of Warcraft_:
 
 
 # Evolution
-As the years have rolled on and gaming has progressed and matures, the way information delivered to the player by the UI has evolved too. The interface of a video game can make or break the whole experience. 
+As the years have rolled on and gaming has progressed and matured, the way information delivered to the player by the UI has evolved too. The interface of a video game can make or break the whole experience. 
 
 Older video games are more conceptual than anything, machines created to explore the concept of video entertainment, not as something to get into the top of a leaderboard, so a UI was not really necessary. However, with the success of arcade machines, UI was introduced in a simple way, like PONG, where it only has the score on the screen. Newer arcade games had the goal of reaching the highest score, therefore displaying several digits on screen that will determine your score. Also, some icons were introduced like health, if the game had lives. 
 
@@ -242,7 +242,7 @@ As you can see, different information is given to the player, like the ammo, the
 ## Inventory
 When PC games started to be more popular RPG games were the most played. Translated from the tabletop to the screen, dungeon crawling, slaying beasts and exploring lands of fantasy was very popular. However, before the incorporation of more modern RPGs with separate menus, skill trees and *usually* minimalistic UIs, most of the things you needed to know where right there on the screen.
 
-This game featured the TAB to switch between your items, spells and armor. The concept of different menus or switching away from the main action wasn’t as present as nowadays. Currently, games offer navigation to different menus or displays to see different options like inventory or skills. 
+The concept of different menus or switching away from the main action wasn’t as present as nowadays. Currently, games offer navigation to different menus or displays to see different options like inventory or skills. 
 
 ## Weapons
 In the old days, the usual way to show how many bullets you have left was by a depleting row of bullets that was shown on screen, and the player could only reload once all of the bullets were gone. 
@@ -252,8 +252,6 @@ As the first person shooters genre boomed, this more visual representation carri
 ## Design
 
 As the media progressed, the user interface was given much more flare. The aesthetics of the game you were playing would match with the design of the UI. For example, when playing a horror game, most likely you will get a spooky dark UI that can be splattered with blood. Or playing a futuristic game, expect a lot of neon lights and digital elements. As time passed by, RPGs tended to go for the more minimalistic design. 
-
-Minimalism in the UI space can make a game more cinematic.
 
 ## Menus and Controllers
 Where do we always begin? In the main menu. Sometimes the main menu is nothing more than the option to Start, Options or Quit. Title screens can be all the way to very simple or have an actual cinematic.
